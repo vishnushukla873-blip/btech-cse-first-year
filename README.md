@@ -19,7 +19,7 @@ jisse coding clear ho jaye.
 | `Division.cpp` | Division of two numbers |
 | `IfElseProblem.cpp` | Package check using if-else
 | Loopproblem.cpp | Print numbers using loops. |
-*I will keep adding more programs like while,do-while , arrays, functions etc.*
+*I will keep adding more programs like Operator , while,do-while ,functions , array , Sorting , String , pointer, Recursion ,OOP's ,Linked List ,Stack ,Queue ,Trees ,STL ,Heap ,Sliding window ,Graphs, Backtracking,Hashing ,Greedy , Hashing, Climbing Stairs , Dynamic programming etc.*
 
 ## 🚀 How to Run the Code
 1.  VS Code open karo
