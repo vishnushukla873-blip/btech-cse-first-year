@@ -17,7 +17,7 @@ jisse coding clear ho jaye.
 | `Subtraction.cpp` | Difference of two numbers |
 | `Multiplication.cpp` | Product of two numbers |
 | `Division.cpp` | Division of two numbers |
-| `IfElseProblem.cpp` | Package check using if-else | 'Loopproblem.cpp' | Print numbers using loops |
+| `IfElseProblem.cpp` | Package check using if-else | `Loopproblem.cpp` | Print numbers using loops |
 
 *I will keep adding more programs like while,do-while , arrays, functions etc.*
 
